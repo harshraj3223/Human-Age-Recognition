@@ -6,5 +6,5 @@ A total of eight distinct classes are present in the training set representing e
 
 ***METHODOLOGY:- After performing several pre-processing tasks on the data, detected the facial regions from the images and trained a VGG network on them for age recognition!!*** 
 
-The overall train and test folders can be found here - Train Dataset - https://bit.ly/3pUDDO1 , 
+The folders with the overall training and testing data can be found here - Train Dataset - https://bit.ly/3pUDDO1 , 
                                                        Test Dataset - https://bit.ly/3iHvwmr
